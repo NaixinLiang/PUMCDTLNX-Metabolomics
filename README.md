@@ -1,5 +1,7 @@
 README
-This directory contains all R scripts used for data analysis in this study, including analyses of metabolomics, transcriptomics, and 16S rRNA sequencing data.
+Article name: Distinct metabolic profiles in lung adenocarcinomas presenting as solid or ground-glass opacities
+
+This directory contains all R scripts used for data analysis in this study, including analyses of metabolomics, transcriptomics, and 16S rRNA sequencing data of the article
 Please note that some scripts may produce errors or warnings when executed, due to differences in R versions or package versions compared with the original analysis environment. Users are advised to verify package compatibility and make appropriate modifications before running the scripts. Information on the original analysis environment can be provided upon request.
 These scripts are provided to facilitate transparency and reproducibility of the analyses.
 
